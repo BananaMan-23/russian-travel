@@ -1,0 +1,8 @@
+.places__list {
+    list-style-type: none;
+    max-width: 984px;
+    margin: 0 auto;
+    display: grid;
+    gap: 80px;
+    margin-bottom: 92px;
+}
