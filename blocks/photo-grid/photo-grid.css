@@ -22,5 +22,6 @@
       max-width: 90%;
       gap: 12px;
       grid-template-columns: repeat(auto-fit, minmax(248px, 1fr));
+      margin-bottom: 64px;
     }
 }

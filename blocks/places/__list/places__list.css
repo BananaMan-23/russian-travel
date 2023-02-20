@@ -1,6 +1,7 @@
 .places__list {
     list-style-type: none;
     max-width: 984px;
+    padding: 0;
     margin: 0 auto;
     display: grid;
     gap: 80px;
@@ -30,5 +31,6 @@
     .places__list {
       gap: 50px;
       padding: 0;
+      margin-bottom: 66px;
     }
 }

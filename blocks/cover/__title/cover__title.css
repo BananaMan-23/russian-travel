@@ -10,6 +10,7 @@
     z-index: 1;
     justify-self: center;
     align-self: end;
+    color: #fff;
 }
 @media screen and (max-width: 767px) {
     .cover__title {
